@@ -4,3 +4,6 @@ Welcome to telusko kitchen
 
 kheer
 pasta
+
+chicken
+beans
